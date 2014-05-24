@@ -1,7 +1,7 @@
 A addon to ForgeGradle to auto-increment the version number when building.
 
 IMPORTANT NOTE: This addon works only on Windows. Feel free to add support for other operating systems.
-                The verisoning system used is Semantic Versioning 2.0.0 (http://www.semver.org)
+The verisoning system used is Semantic Versioning 2.0.0 (http://www.semver.org)
 
 How to use
 ==========
@@ -15,7 +15,7 @@ Installation
     - build.bat
     - build.gradle
     - config.xml
-   into your ForgeGradle directory. If you have changed your build.gradle, don't forget to backup it.
+into your ForgeGradle directory. If you have changed your build.gradle, don't forget to backup it.
 
 -------------   
 Configuration
