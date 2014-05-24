@@ -28,7 +28,7 @@ config.xml
 <?xml version="1.0" encoding="utf-8"?>
 <config>
 	<modid>The name of my mod</modid>    The name of your mod. Will be the file name.   
-    <mcversion>1.7.2</mcversion>         The version of Minecraft you are modding.
+        <mcversion>1.7.2</mcversion>         The version of Minecraft you are modding.
 	<group>com.example.test</group>      Your main package.   
 	<version>0.1.0</version>             Do not edit, unless your mod is in a further developement state.
 	<isDev>false</isDev>                 Do not edit.
